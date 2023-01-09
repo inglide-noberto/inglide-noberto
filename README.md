@@ -2,7 +2,7 @@
 I started my studies as a dev a few years ago, but only at the beginning of this year I was able to make my career transition. I love working and relating to people who contribute to my development and whenever I can I do the same for others. I think technology is like, a big network of people who love to help other people.
 
 
-![Inglide GitHub stats](https://github-readme-stats.vercel.app/api?username=inglide-noberto&show_icons=true&theme=cobalt)
+![Inglide GitHub stats](https://github-readme-stats.vercel.app/api?username=inglide-noberto&show_icons=true&theme=dark)
 
 
 
