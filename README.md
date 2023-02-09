@@ -1,6 +1,7 @@
-### Hi devs, my name's Inglide and develop for the web! ✌️
+### Hi devs, my name's Inglide!✌️
 I started my studies as a dev a few years ago, but only at the beginning of this year I was able to make my career transition. I love working and relating to people who contribute to my development and whenever I can I do the same for others. I think technology is like, a big network of people who love to help other people.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inglide-noberto&layout=compact)](https://github.com/inglide-noberto/github-readme-stats)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inglide-noberto/)
 
