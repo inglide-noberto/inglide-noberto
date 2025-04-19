@@ -12,10 +12,12 @@ Sou uma desenvolvedora backend com foco em **Node.js**, **TypeScript**, **Prisma
 
 ## 📈 Projetos em Destaque
 
-- **[nest-api-avanade](https://github.com/inglide-noberto/nest-api-avanade)**  
-  API desenvolvida com NestJS utilizando TypeScript, Prisma, PostgreSQL, autenticação com JWT e validações robustas. O projeto segue boas práticas de arquitetura e organização de código, ideal para aplicações escaláveis e seguras.
 - **[avanade-c6bank](https://github.com/inglide-noberto/avanade-c6bank)**  
   Aplicação frontend integrada com a `nest-api-avanade`, simulando a interface de um banco digital. Desenvolvido com foco em consumo de API, exibição de dados financeiros e estruturação de páginas utilizando práticas modernas de frontend.
+  
+- **[nest-api-avanade](https://github.com/inglide-noberto/nest-api-avanade)**  
+  API desenvolvida com NestJS utilizando TypeScript, Prisma, PostgreSQL, autenticação com JWT e validações robustas. O projeto segue boas práticas de arquitetura e organização de código, ideal para aplicações escaláveis e seguras.
+  
 - **[ecommerce-pi](https://github.com/inglide-noberto/ecommerce-pi)**  
   Projeto de e-commerce completo desenvolvido em grupo, com funcionalidades como cadastro de usuários, login, gerenciamento de produtos e painel administrativo. Aplicação feita como parte de um projeto integrador, simulando um cenário real de desenvolvimento colaborativo.
 
