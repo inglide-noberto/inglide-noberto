@@ -10,6 +10,16 @@ Sou uma desenvolvedora backend com foco em **Node.js**, **TypeScript**, **Prisma
 - **Ferramentas**: Docker, GitHub Actions
 - **Infraestrutura**: EKS, Docker, Kubernetes
 
+## 🧑‍💻 Experiência recente
+
+Nos últimos anos, atuei como desenvolvedor backend na Avanade, contribuindo para projetos privados utilizando:
+
+- Node.js com TypeScript
+- NestJS, Mongoose e MongoDB
+- AWS (Lambda, EKS, S3, entre outros)
+
+Por serem repositórios privados e com e-mail corporativo, essas contribuições não aparecem neste perfil público, mas sigo comprometido diariamente com o aprendizado e evolução técnica — por isso estou mantendo este GitHub ativo com projetos, estudos e desafios.
+
 ## 📈 Projetos em Destaque
 
 - **[avanade-c6bank](https://github.com/inglide-noberto/avanade-c6bank)**  
