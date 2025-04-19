@@ -12,8 +12,6 @@ Sou uma desenvolvedora backend com foco em **Node.js**, **TypeScript**, **Prisma
 
 ## 📈 Projetos em Destaque
 
-- ## 📈 Projetos em Destaque
-
 - **[nest-api-avanade](https://github.com/inglide-noberto/nest-api-avanade)**  
   API desenvolvida com NestJS utilizando TypeScript, Prisma, PostgreSQL, autenticação com JWT e validações robustas. O projeto segue boas práticas de arquitetura e organização de código, ideal para aplicações escaláveis e seguras.
 - **[Projeto Y](link-do-repositorio)** - Descrição curta do projeto.
