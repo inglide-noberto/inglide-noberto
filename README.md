@@ -12,7 +12,7 @@ Sou uma desenvolvedora backend com foco em **Node.js**, **TypeScript**, **Prisma
 
 ## 🧑‍💻 Experiência recente
 
-Nos últimos anos, atuei como desenvolvedor backend na Avanade, contribuindo para projetos privados utilizando:
+Nos últimos anos, atuei como desenvolvedora backend na Avanade, contribuindo para projetos privados utilizando:
 
 - Node.js com TypeScript
 - NestJS, Mongoose e MongoDB
